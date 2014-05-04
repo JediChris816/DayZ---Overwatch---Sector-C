@@ -35,7 +35,7 @@ Open the server_functions.sqf.
 
 Place this line at the bottom of the server_functions.sqf (by default, Overwatch has the main.sqf at the bottom therefor you can place this underneath):
 
-call compile preProcessFileLineNumbers "\z\addons\dayz_server\buildings\sector_C.sqf";
+&quot;call compile preProcessFileLineNumbers "\z\addons\dayz_server\buildings\sector_C.sqf";&quot;
 
 Save the server_functions.sqf.
 
