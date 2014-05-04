@@ -35,6 +35,7 @@ Open the server_functions.sqf.
 
 Place this line at the bottom of the server_functions.sqf (by default, Overwatch has the main.sqf at the bottom therefor you can place this underneath):
 call compile preProcessFileLineNumbers "\z\addons\dayz_server\buildings\sector_C.sqf";
+
 Save the server_functions.sqf.
 
 Repack your dayz_server.pbo.
@@ -49,6 +50,7 @@ Copy/drag the "crates" folder to the root of your mission pbo (dayz_1.chernarus.
 Open the init.sqf.
 
 Place these 3 lines at the bottom:
+	
 	[] execVM "crates\parts.sqf";   
 	[] execVM "crates\food.sqf";   
 	[] execVM "crates\weapons_ammo.sqf";
