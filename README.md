@@ -17,12 +17,14 @@ Notepad++ can be downloaded here: http://notepad-plus-plus.org/
 INSTALL INSTRUCTIONS
 
 PART I
+
 Download this .zip folder and extract.
 
 Open/unpack your dayz_server.pbo using CPBO or PBO manager (http://www.armaholic.com/page.php?id=16369)
 
 
 PART II
+
 Create a folder named/called "buildings" (or create a folder and name it whatever you want) and place in the root of your dayz_server.pbo.
 
 Open the Sector_C folder and copy/drag the sector_c.sqf into the "buildings" folder (Overwatch has a folder named buildings by default).
@@ -39,6 +41,7 @@ Repack your dayz_server.pbo.
 
 
 PART III (this part can be done server side if you prefer, however, I am not providing instructions)
+
 Open/unpack your dayz_1.chernarus PBO (referred to as the mission pbo).  
 
 Copy/drag the "crates" folder to the root of your mission pbo (dayz_1.chernarus.pbo).
@@ -59,11 +62,13 @@ Repack your dayz_1.chernarus.pbo (mission PBO).
 
 
 PART IV
+
 Upload the new server and mission PBOs to your server.
 
 ---------------------------------------------------------------------
 
 COORDINATE EDITING FOR CRATES
+
 You will need a database tool like Navicat Lite or Heidi SQL.  Google/Bing it if you don't have either.
 
 Open the your instance name.
