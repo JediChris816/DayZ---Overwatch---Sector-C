@@ -5,7 +5,7 @@ Support for this addon at: http://opendayz.net/threads/russian-occupation-addon-
 
 This install is based on the naming scheme for HFB servers.  If you use DayZ.st, Survival Servers, etc, the PBO names will be similiar.
 
-There are 2 parts of this addon, 1 is the sector_c.sqf, the other is the crates folder with the food/parts/weapons crate scripts for a total of 3 crate scripts.
+There are 2 parts of this addon, the sector_c.sqf, and the other is the crates folder with the food/parts/weapons crate scripts for a total of 3 crate scripts.
 
 Advanced users: You should know where to place these files that are convenient for you based on your server build.  This will also work on a vanilla DayZ server and possibly Epoch Chernarus.
 
