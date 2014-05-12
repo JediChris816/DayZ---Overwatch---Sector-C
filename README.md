@@ -1,7 +1,7 @@
 DayZ---Overwatch---Sector-C
 ===========================
 
-Support for this addon at: http://opendayz.net/threads/russian-occupation-addon-big-northern-chernarus-enclosed-base-like-sector-b.19443/
+Support for this addon at: http://opendayz.net/threads/release-sector-c.19443/
 
 This install is based on the naming scheme for HFB servers.  If you use DayZ.st, Survival Servers, etc, the PBO names will be similiar.
 
@@ -87,4 +87,4 @@ You will need to logout in Sector C at the location where you want the new crate
 the instructions above for COORDINATE EDITING FOR CRATES.
 
 
-Report issues or problems at this link: http://opendayz.net/threads/russian-occupation-addon-big-northern-chernarus-enclosed-base-like-sector-b.19443/
+Report issues or problems at this link: http://opendayz.net/threads/release-sector-c.19443/
